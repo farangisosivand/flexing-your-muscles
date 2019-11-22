@@ -16,3 +16,18 @@ img {
   display: block;
   width: 100%;
 }
+
+.footer {
+  display: f
+  justify-content:space-between;
+  padding: 1em 0;
+
+  background-color: #8bc9d9;
+  border-top: 3px solid #005e76;
+
+  color: #005376;
+}
+
+.social > li {
+  width: 3em;
+}
